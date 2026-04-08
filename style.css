@@ -1,0 +1,24 @@
+body{
+    background: #331b09;
+}
+
+.principal{
+    background: #813f15;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.acerca-de-nosotros{
+    background: #813f15;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+nav {
+    background: #e7e5e4;
+    padding: 10px;
+    text-align: center;
+}
