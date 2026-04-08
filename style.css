@@ -1,5 +1,6 @@
 body{
     background: #331b09;
+    color: white;
 }
 
 .principal{
@@ -8,6 +9,10 @@ body{
     border-radius: 5px;
     margin: 20px auto;
     max-width: 800px;
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
 }
 
 .acerca-de-nosotros{
@@ -16,9 +21,35 @@ body{
     border-radius: 5px;
     margin: 20px auto;
     max-width: 800px;
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
 }
 nav {
     background: #e7e5e4;
     padding: 10px;
     text-align: center;
+    color: #331b09;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+h3 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
