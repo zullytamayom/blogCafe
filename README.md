@@ -1,4 +1,4 @@
-# ☕ Tu Café, a Tu Manera
+# ☕ Alquimia del café
 
 ¡Bienvenidos! Este no es un espacio para perseguir el café más caro del mundo, sino para ayudarte a encontrar **tu café ideal**. 
 
