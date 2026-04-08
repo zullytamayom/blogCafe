@@ -112,4 +112,8 @@ button {
     background-color: #2c1a0e; /* café oscuro */
     color: #fff;
 }
+
+.contenedor {
+    padding-bottom: 80px;
+}
 button:hover { background: #0056b3; }
